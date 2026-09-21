@@ -43,3 +43,9 @@ The goal is to uncover insights into spending patterns, customer segments, produ
 
 The analysis provides insights that can support business
 decision-making and customer-focused strategies.
+
+## 👩‍💻 Author
+
+**Nandini Mali**  
+Aspiring Data Analyst | Python | SQL | PostgreSQL | Excel | Power BI
+
