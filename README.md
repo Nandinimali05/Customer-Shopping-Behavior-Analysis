@@ -1,9 +1,7 @@
-<img width="1272" height="691" alt="image" src="https://github.com/user-attachments/assets/8072dee5-ce47-469e-b271-adb40b2a16c2" /># Customer Shopping Behavior Analysis
-
 ## 📌 Project Overview
 
-Analysis of customer shopping behavior to identify purchasing
-patterns, customer segments, product preferences and subscription trends.
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. 
+The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
 ## 🛠️ Tools & Technologies
 
